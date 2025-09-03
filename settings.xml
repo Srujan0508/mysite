@@ -1,0 +1,14 @@
+    <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0">
+      <servers>
+        <server>
+          <id>bristow-releases</id>
+          <username>bristowuser</username>
+          <password>bristowuser</password>
+        </server>
+        <server>
+          <id>bristow-snapshots</id>
+          <username>bristowuser</username>
+          <password>bristowuser</password>
+        </server>
+      </servers>
+    </settings>
