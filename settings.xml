@@ -1,14 +1,14 @@
     <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0">
       <servers>
         <server>
-          <id>bristow-releases</id>
-          <username>bristowuser</username>
-          <password>bristowuser</password>
+          <id>srujanreleases</id>
+          <username>srujan</username>
+          <password>srujan</password>
         </server>
         <server>
-          <id>bristow-snapshots</id>
-          <username>bristowuser</username>
-          <password>bristowuser</password>
+          <id>srujansnapshots</id>
+          <username>srujan</username>
+          <password>srujan</password>
         </server>
       </servers>
     </settings>
