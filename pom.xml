@@ -90,16 +90,16 @@
   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>bristow-releases</id>
-      <name>bristow-releases</name>
-      <url>http://3.109.144.109:8081/repository/bristow-releases/</url>
+      <id>srujanreleases</id>
+      <name>srujanreleases</name>
+      <url>http://13.55.136.240:8081/repository/srujanreleases/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
-      <id>bristow-snapshots</id>
-      <name>bristow-snapshots</name>
-      <url>http://3.109.144.109:8081/repository/bristow-snapshots/</url>
+      <id>srujansnapshots</id>
+      <name>srujansnapshots</name>
+      <url>http://13.55.136.240:8081/repository/srujansnapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
